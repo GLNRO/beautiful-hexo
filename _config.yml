@@ -1,7 +1,6 @@
 navbar-links:
     Archive: /archives
-    Github: 'https://github.com/glnro'
-    Work: 'https://fierce-woodland-24308.herokuapp.com'
+    Work: 'https://laurengallinaro.com'
 
 avatar: /img/white_oroboro.png
 favicon: /img/oroboro.png
@@ -11,7 +10,9 @@ header:
     title: "SAYING THINGS ON THE INTERNET!"
     motto:
     bigimgs:
-        - src: /img/swarm_illustrator-01.png
+        - src: /img/egg_purple-01.png
+        - src: /img/swarm_illustrator_purple-01-01.png
+        - src: /img/swarm_illustrator_purple-01.png
 
 
 
